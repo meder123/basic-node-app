@@ -1,2 +1,1 @@
-# basoc-node-app
-Just a basic node app for testing.
+### This is just a basic node app which im testing stuff with.
